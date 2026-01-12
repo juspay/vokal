@@ -104,7 +104,7 @@
     "dotenv": "^16.4.5",
     "node-record-lpcm16": "^1.0.1",
     "ora": "^7.0.1",
-    "yargs": "^17.7.2"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.0",
