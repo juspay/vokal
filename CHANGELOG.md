@@ -1,3 +1,8 @@
+## <small>1.0.2 (2026-01-12)</small>
+
+* Merge pull request #37 from juspay/fix/pin-dependency-versions ([82969f5](https://github.com/juspay/vokal/commit/82969f5)), closes [#37](https://github.com/juspay/vokal/issues/37)
+* fix(deps): pin @google-cloud/speech and @juspay/neurolink versions ([2fcaa25](https://github.com/juspay/vokal/commit/2fcaa25))
+
 ## <small>1.0.1 (2026-01-08)</small>
 
 * fix(ci): use correct --check flag for pnpm dedupe ([0059a35](https://github.com/juspay/vokal/commit/0059a35))
